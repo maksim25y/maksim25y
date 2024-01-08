@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Статистика Anurag на GitHub]( https://github-readme-stats.vercel.app/api?username=maksim25y&show_icons=true&theme=transparent)
 <!--
 **maksim25y/maksim25y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
