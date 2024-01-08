@@ -3,7 +3,7 @@
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=maksim25y&show_icons=true&count_private=true">
        <img height=150 src="https://github-readme-stats.vercel.app/api?username=maksim25y&show_icons=true&count_private=true"/></a>
-       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=romankh3&layout=compact"/></a>
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=maksim25y&layout=compact"/></a>
 </p>
 <!--
 **maksim25y/maksim25y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
