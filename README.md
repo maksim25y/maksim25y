@@ -41,7 +41,7 @@
 
 ### My projects
 <div>
-   [![Electronic diary](Проект, выполненный в рамках курса "Промышленная разработка на Java" от ИТ-компании NAUMEN)](https://github.com/maksim25y/ProjectNaumen)
+   [![Electronic diary](https://github.com/maksim25y/ProjectNaumen)](https://github.com/maksim25y/ProjectNaumen)
 </div>
 
 
