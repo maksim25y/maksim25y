@@ -40,8 +40,6 @@
 </div>
 
 ### My projects
-<div>
-   [![Electronic diary](https://github-readme-stats.vercel.app/api/pin/?username=maksim25y&repo=ProjectNaumen&theme=radical)](https://github.com/maksim25y/ProjectNaumen)
-</div>
+[![Electronic diary](https://github-readme-stats.vercel.app/api/pin/?username=maksim25y&repo=ProjectNaumen&theme=radical)](https://github.com/maksim25y/ProjectNaumen)
 
 
