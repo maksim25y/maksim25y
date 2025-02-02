@@ -42,3 +42,4 @@
 ### My projects
 [![Electronic Document Management](https://github-readme-stats.vercel.app/api/pin/?username=maksim25y&repo=CaseLabProject&theme=radical)](https://github.com/maksim25y/CaseLabProject)
 [![Electronic diary](https://github-readme-stats.vercel.app/api/pin/?username=maksim25y&repo=ProjectNaumen&theme=radical)](https://github.com/maksim25y/ProjectNaumen)
+[![Front-end "Application for publishing records"](https://github-readme-stats.vercel.app/api/pin/?username=maksim25y&repo=clientApp&theme=radical)](https://github.com/maksim25y/clientApp)
