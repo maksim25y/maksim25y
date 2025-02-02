@@ -5,9 +5,9 @@
        <img height=150 src="https://github-readme-stats.vercel.app/api?username=maksim25y&show_icons=true&count_private=true"/></a>
 </p>
 
-## Languages and tools
+## :hammer_and_wrench: Языки и технологии
 
-### The main technology stack
+### Основной технологический стек
 <div>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" wigth="40" height="40"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" wigth="40" height="40"/>
@@ -26,7 +26,7 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original-wordmark.svg" wigth="50" height="50"/>
 </div>
 
-### Other technologies
+### Другие технологии
 <div>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" wigth="40" height="40"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" wigth="40" height="40"/>
@@ -39,8 +39,8 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" wigth="40" height="40"/>
 </div>
 
-### My projects
+## 📂 Мои проекты
 [![Electronic Document Management](https://github-readme-stats.vercel.app/api/pin/?username=maksim25y&repo=CaseLabProject&theme=radical)](https://github.com/maksim25y/CaseLabProject)
-[![Electronic diary](https://github-readme-stats.vercel.app/api/pin/?username=maksim25y&repo=ProjectNaumen&theme=radical)](https://github.com/maksim25y/ProjectNaumen)
+[![Электронный дневник](https://github-readme-stats.vercel.app/api/pin/?username=maksim25y&repo=ProjectNaumen&theme=radical)](https://github.com/maksim25y/ProjectNaumen)
 [![Front-end "Application for publishing records"](https://github-readme-stats.vercel.app/api/pin/?username=maksim25y&repo=clientApp&theme=radical)](https://github.com/maksim25y/clientApp)
 [![HeartProject](https://github-readme-stats.vercel.app/api/pin/?username=maksim25y&repo=HeartBackend&theme=radical)](https://github.com/maksim25y/HeartBackend)
