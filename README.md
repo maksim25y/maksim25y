@@ -38,3 +38,10 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" wigth="40" height="40"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" wigth="40" height="40"/>
 </div>
+
+### My projects
+<div>
+   [![Electronic diary](Проект, выполненный в рамках курса "Промышленная разработка на Java" от ИТ-компании NAUMEN)](https://github.com/maksim25y/ProjectNaumen)
+</div>
+
+
