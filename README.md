@@ -36,12 +36,12 @@
 ![Scala](https://img.shields.io/badge/Scala-ED8B00?style=for-the-badge&logo=scala&logoColor=white) 
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) 
-![Java Script](https://img.shields.io/badge/JS-6DB33F?style=for-the-badge&logo=javascript&logoColor=white) 
+![Java Script](https://img.shields.io/badge/JS-FCC624?style=for-the-badge&logo=javascript&logoColor=white) 
+![Type Script](https://img.shields.io/badge/TypeScript-2496ED?style=for-the-badge&logo=typescript&logoColor=white) 
 ![Angular](https://img.shields.io/badge/Angular-F05032?style=for-the-badge&logo=angular&logoColor=white) 
+![Go](https://img.shields.io/badge/GO-2496ED?style=for-the-badge&logo=go&logoColor=white) 
 ![HTML](https://img.shields.io/badge/HTML-F46800?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS-2088FF?style=for-the-badge&logo=css3&logoColor=white) 
-![Go](https://img.shields.io/badge/GO-2496ED?style=for-the-badge&logo=go&logoColor=white) 
-![Type Script](https://img.shields.io/badge/TypeScript-2496ED?style=for-the-badge&logo=typescript&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-2496ED?style=for-the-badge&logo=bootstrap&logoColor=white) 
 
 ---
