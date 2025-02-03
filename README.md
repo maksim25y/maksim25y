@@ -33,24 +33,18 @@
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white) 
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-652B90?style=for-the-badge&logo=openapiinitiative&logoColor=white) 
 ### Другие используемые технологии
-![Scala](https://img.shields.io/badge/Scala-0095D5?style=for-the-badge&logo=scala&logoColor=white) 
+![Scala](https://img.shields.io/badge/Scala-ED8B00?style=for-the-badge&logo=scala&logoColor=white) 
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) 
+![Java Script](https://img.shields.io/badge/JS-6DB33F?style=for-the-badge&logo=javascript&logoColor=white) 
+![Angular](https://img.shields.io/badge/Angular-F05032?style=for-the-badge&logo=angular&logoColor=white) 
+![HTML](https://img.shields.io/badge/HTML-F46800?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/CSS-2088FF?style=for-the-badge&logo=css3&logoColor=white) 
+![Go](https://img.shields.io/badge/GO-2496ED?style=for-the-badge&logo=go&logoColor=white) 
+![Type Script](https://img.shields.io/badge/TypeScript-2496ED?style=for-the-badge&logo=typescript&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-2496ED?style=for-the-badge&logo=bootstrap&logoColor=white) 
 
 ---
-
-### Другие технологии
-<div>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" wigth="40" height="40"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" wigth="40" height="40"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" wigth="40" height="40"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-plain-wordmark.svg" wigth="40" height="40"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" wigth="40" height="40"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" wigth="40" height="40"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" wigth="40" height="40"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" wigth="40" height="40"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" wigth="40" height="40"/>
-</div>
 
 ## 📂 Мои проекты
 [![Electronic Document Management](https://github-readme-stats.vercel.app/api/pin/?username=maksim25y&repo=CaseLabProject&theme=radical)](https://github.com/maksim25y/CaseLabProject)
