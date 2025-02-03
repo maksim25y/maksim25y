@@ -32,6 +32,8 @@
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white) 
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white) 
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-652B90?style=for-the-badge&logo=openapiinitiative&logoColor=white) 
+### Другие используемые технологии
+![Scala](https://img.shields.io/badge/Scala-0095D5?style=for-the-badge&logo=scala&logoColor=white) 
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) 
 
