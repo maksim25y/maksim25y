@@ -8,6 +8,7 @@
 ## :hammer_and_wrench: Языки и технологии
 ### Основной технологический стек
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
+![Scala](https://img.shields.io/badge/Scala-ED8B00?style=for-the-badge&logo=scala&logoColor=white) 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) 
@@ -32,7 +33,6 @@
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white) 
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white) 
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-652B90?style=for-the-badge&logo=openapiinitiative&logoColor=white) 
-![Scala](https://img.shields.io/badge/Scala-ED8B00?style=for-the-badge&logo=scala&logoColor=white) 
 ### Другие используемые технологии
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) 
